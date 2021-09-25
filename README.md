@@ -1,4 +1,4 @@
-<h2 align="centre">🎵 CLOVER MUSIC BOT</h2>
+<h2 align="centre">🎵 SELEB BOSS  MUSIC BOT</h2>
 
 ### 🧪 Get STRING_SESSION from below:
 
