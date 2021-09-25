@@ -1,9 +1,9 @@
 {
-    "name": "Clover Music Bot",
-    "logo": "https://telegra.ph/file/5c990b3d72ba18bb75bac.png",
+    "name": "Seleb Music Bot",
+    "logo": "https://telegra.ph/file/42dcb82b3d6025ba1f8f2.png",
     "description": "Clover Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/NoteTeam/Clover",
+    "repository": "https://github.com/NoteTeam/selebboss",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -42,22 +42,22 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "CloverMusic_Bot"
+            "value": "Seleb_Boss_Music_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "AssistanceClover"
+            "value": "SelebbossAssistant"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
             "required": false,
-            "value": "https://telegra.ph/file/5c990b3d72ba18bb75bac.png"
+            "value": "https://telegra.ph/file/42dcb82b3d6025ba1f8f2.png"
         },
         "THUMB_IMG": {
             "description": "fill with costum thumbnail image it's different with bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/00b58b16f98cc8128bfa6.png"
+            "value": "https://telegra.ph/file/623de620190df39398a85.png"
         },
         "OWNER_NAME": {
             "description": "fill with your username without @",
@@ -89,12 +89,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "mutiaraindh"
+            "value": "rastoryni"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "anjingsinijoin"
+            "value": "serepetah"
         }
     },
     "buildpacks": [
